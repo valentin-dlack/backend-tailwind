@@ -1,0 +1,24 @@
+{
+  "name": "backoffice-app",
+  "version": "1.0.0",
+  "description": "a backoffice app made with flask and tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentin-dlack/backend-tailwind.git"
+  },
+  "author": "lack_off1",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/valentin-dlack/backend-tailwind/issues"
+  },
+  "homepage": "https://github.com/valentin-dlack/backend-tailwind#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  }
+}
