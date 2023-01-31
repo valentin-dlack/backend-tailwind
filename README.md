@@ -1,6 +1,7 @@
 # Back-Office Application
 
-This project is a example of a back-office application, built using the Python web framework Flask and the CSS framework Tailwind.
+This project is a example of a back-office application, built using the Python web framework Flask and the CSS framework Tailwind.  
+Note : DaisyUI is used for the drawer menu.
 
 ## Table of Contents
 
